@@ -1,0 +1,12 @@
+{
+  "model_name": "distilbert-base-uncased",
+  "train_size": 16844,
+  "test_size": 4211,
+  "epochs": 3,
+  "batch_size": 16,
+  "max_length": 256,
+  "accuracy": 0.9273331750178105,
+  "precision": 0.9262829633147696,
+  "recall": 0.9273331750178105,
+  "f1": 0.9267654690881155
+}

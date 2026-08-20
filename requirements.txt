@@ -1,0 +1,9 @@
+streamlit
+transformers
+torch
+spacy
+vaderSentiment
+pandas
+scikit-learn
+datasets
+accelerate
