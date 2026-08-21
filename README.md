@@ -112,7 +112,7 @@ ReviewLens addresses these questions by combining aspect-based sentiment analysi
 | Feature | Description |
 |---------|-------------|
 | Multi-model Sentiment | Compares VADER, fine-tuned model, and combined results |
-| Aspect Extraction | Identifies 23 product aspects using keyword and zero-shot methods |
+| Aspect Extraction | Identifies 200+ product aspects using keyword and zero-shot methods |
 | Aspect Sentiment | Determines positive/negative/neutral for each detected aspect |
 | Confidence Scores | Provides detection confidence and sentiment confidence for each aspect |
 | Pros and Cons | Aggregates aspects into clear pros and cons lists |
