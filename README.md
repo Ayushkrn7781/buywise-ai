@@ -21,7 +21,7 @@
 
 ## Overview
 
-ReviewLens is an NLP-based review intelligence system that analyzes product reviews to extract structured insights. Instead of simply classifying a review as positive or negative, the system identifies specific product aspects, determines the sentiment for each aspect, calculates confidence scores, and presents the results in a decision-oriented format.
+buy-wise.ai is an NLP-based review intelligence system that analyzes product reviews to extract structured insights. Instead of simply classifying a review as positive or negative, the system identifies specific product aspects, determines the sentiment for each aspect, calculates confidence scores, and presents the results in a decision-oriented format.
 
 The system supports two modes of analysis:
 
@@ -42,7 +42,7 @@ Online marketplaces host thousands of reviews for popular products. Reading all 
 - What is the overall verdict based on aggregated opinions?
 - Is the product suitable for their specific use case?
 
-ReviewLens addresses these questions by combining aspect-based sentiment analysis with confidence scoring and aggregate reporting.
+buy-wise.ai addresses these questions by combining aspect-based sentiment analysis with confidence scoring and aggregate reporting.
 
 ---
 
@@ -133,7 +133,7 @@ ReviewLens addresses these questions by combining aspect-based sentiment analysi
 ## Project Structure
 
 ```
-reviewlens/
+buy-wise.ai/
 |
 |-- app.py                    # Main Streamlit dashboard (single + batch)
 |-- nlp_engine.py             # Single review analysis engine
