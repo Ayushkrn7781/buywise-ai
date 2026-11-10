@@ -1,4 +1,4 @@
-# ReviewLens - NLP-Powered Review Intelligence System
+# buy-wise.ai - NLP-Powered Review Intelligence System
 
 ## Table of Contents
 
